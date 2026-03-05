@@ -48,15 +48,15 @@ Target variable:
 
 The project follows a complete machine learning workflow:
 
-1️⃣ Data Understanding
-2️⃣ Exploratory Data Analysis (EDA)
-3️⃣ Data Preprocessing
-4️⃣ Encoding Categorical Variables
-5️⃣ Feature Scaling
-6️⃣ Train-Test Split
-7️⃣ Model Training
-8️⃣ Model Evaluation and Comparison
-9️⃣ Business Insights
+1️⃣ Data Understanding  
+2️⃣ Exploratory Data Analysis (EDA)  
+3️⃣ Data Preprocessing  
+4️⃣ Encoding Categorical Variables  
+5️⃣ Feature Scaling  
+6️⃣ Train-Test Split  
+7️⃣ Model Training  
+8️⃣ Model Evaluation and Comparison  
+9️⃣ Business Insights  
 
 ---
 
